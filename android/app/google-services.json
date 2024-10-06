@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "424178962169",
+    "project_id": "tocha-49ef1",
+    "storage_bucket": "tocha-49ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424178962169:android:0c548adffe7a0fe89f1c28",
+        "android_client_info": {
+          "package_name": "com.example.tocha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424178962169-1lcg6o39mrb1pnt8m875lt61od1ckpgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tocha",
+            "certificate_hash": "4fc0997f4631209418c61d2a6d1be01e41ba1ad3"
+          }
+        },
+        {
+          "client_id": "424178962169-l6l2rrjc23eitcq0nij1l29kco2c61pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNzIgrEjQVi2AaZY0F5nXbU5aEfF20J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424178962169-l6l2rrjc23eitcq0nij1l29kco2c61pj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424178962169-2bdqf6n23agu33ui5ono4c1ge9llro9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tocha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
